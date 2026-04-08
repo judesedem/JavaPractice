@@ -42,6 +42,7 @@ public class Student{
 }
 void study(){
     System.out.println(name+" is studying!");
+    System.out.println("BOOM!!");
 }
 
 } 
